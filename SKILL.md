@@ -1,8 +1,8 @@
 ---
 name: agent-performance-profiler
 slug: skylv-agent-performance-profiler
-version: 1.0.0
-description: "Agent 性能分析与优化。分析响应时间、Token 消耗、工具调用效率，提供优化建议。Triggers: agent performance, optimize agent, token usage, response time, agent profiling."
+version: 1.0.2
+description: Agent performance analyzer. Analyzes response time, token consumption, and tool call efficiency with optimization recommendations. Triggers: performance profiling, agent speed, token optimization.
 author: SKY-lv
 license: MIT
 tags: [agent, performance, optimization, profiling, token-usage]
